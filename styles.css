@@ -342,6 +342,7 @@ h2 {
     background-color: #d6a553;
     border-radius: 5px;
     padding: .5rem;
+    cursor: pointer;
 }   
 
 /* Venmo Container */
